@@ -38,8 +38,9 @@ The project provides two formats including MS COCO and YOLO.
 
 You can download this dataset in BaiduNetDisk
 
-url：https://pan.baidu.com/s/17_EJ3GkydpgFS2ekQfpw0w?pwd=hjdy 
-extracting code：hjdy
+- url：https://pan.baidu.com/s/17_EJ3GkydpgFS2ekQfpw0w?pwd=hjdy 
+- extracting code：hjdy
+- QR Code
 
-
+![image-20230104221438701](https://image-bed-hjd.oss-cn-nanjing.aliyuncs.com/Markdown/image-20230104221438701.png)
 
